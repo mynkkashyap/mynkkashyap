@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mynkkashyap
-- 👀 I’m interested in peoples
+- 👀 I’m interested in github
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on php
 - 📫 How to reach me email
